@@ -62,6 +62,6 @@ Paquetes principales:
 📬 Contacto
 ==================================================
 Gabriela Durán Meza  
-[igabypy@gmail.com / [LinkedIn](https://www.linkedin.com/in/igabypy/) / [GitHub - opcional si quieres añadirlos](https://github.com/igabypy)]
+[igabypy@gmail.com / https://www.linkedin.com/in/igabypy/ / https://github.com/igabypy]
 
 
